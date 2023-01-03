@@ -17,7 +17,7 @@ app.get('/webhook', (req, res) => {
     // To verify that the webhook is set up
     // properly, by sending a special challenge that
     // we need to echo back if the "verify_token" is as specified
-    if (req.query['hub.verify_token'] === 'CUSTOM_WEBHOOK_VERIFY_TOKEN') {
+    if (req.query['hub.verify_token'] === 'EABOX9BltqDQBAEyOr3HHzkZBd5S4bJIAtNZBRCTtCmNIZCMrB8Sc9nZAJoQEz8A3U5J81W6YVZBJQfhkON3gQwSATX5PZCOjwOs1adefokJeZCiucgiPEThNpt3CcuoZBDTWhAEZAV3zLb8jMkTvlXQ9ywk7eTRJehDfKDOFfplJr0FAnXxQZB5aht') {
         res.send(req.query['hub.challenge']);
         return;
     }
