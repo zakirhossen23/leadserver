@@ -1,0 +1,12 @@
+Page Name:
+Idealidad Agencia de Marketing Digital
+
+
+Page api:
+EABOX9BltqDQBAAZBZCMtUvDUyunJAgP4HT3EvoWGP8cBZBKl8Ur03BaYJTegmqLMuMqSqFrujCZCyz2W8AZBZAhijZCCBGfSSFDc3DsoXwlLzzUgvOTx73g4JNkd6kouE4P35daMh5wY9xnBFy07bCyLvGJazdITjbpkwkKkqXvmEHrquvuLbakfKmZBkoKSREgZD
+
+https://developers.facebook.com/tools/debug/accesstoken/?access_token=EABOX9BltqDQBAAZBZCMtUvDUyunJAgP4HT3EvoWGP8cBZBKl8Ur03BaYJTegmqLMuMqSqFrujCZCyz2W8AZBZAhijZCCBGfSSFDc3DsoXwlLzzUgvOTx73g4JNkd6kouE4P35daMh5wY9xnBFy07bCyLvGJazdITjbpkwkKkqXvmEHrquvuLbakfKmZBkoKSREgZD&version=v15.0
+
+
+server:
+https://kind-jade-cocoon-suit.cyclic.app/
